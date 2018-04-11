@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-no-confusing-arrow",
+  "version": "1.0.0",
+  "description": "Make no-confusing-arrow fixable",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasperck/eslint-plugin-no-confusing-arrow"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "peerDependencies": {
+    "eslint": ">=3"
+  },
+  "author": "Jasper Chang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasperck/eslint-plugin-no-confusing-arrow/issues"
+  },
+  "homepage": "https://github.com/jasperck/eslint-plugin-no-confusing-arrow#readme"
+}
