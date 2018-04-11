@@ -6,7 +6,7 @@
 
 "use strict";
 
-const astUtils = require("../ast-utils.js");
+const astUtils = require("./astUtils");
 
 //------------------------------------------------------------------------------
 // Helpers
